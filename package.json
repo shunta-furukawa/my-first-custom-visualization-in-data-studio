@@ -1,0 +1,22 @@
+{
+  "name": "my-first-custom-visualization-in-data-studio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shunta-furukawa/my-first-custom-visualization-in-data-studio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shunta-furukawa/my-first-custom-visualization-in-data-studio/issues"
+  },
+  "homepage": "https://github.com/shunta-furukawa/my-first-custom-visualization-in-data-studio#readme",
+  "dependencies": {
+    "@google/dscc": "^0.3.22"
+  }
+}
